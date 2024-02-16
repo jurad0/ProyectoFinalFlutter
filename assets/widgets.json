@@ -1,0 +1,25 @@
+{
+    "widgets": [
+      {"nombre": "Container", "descripcion": "Un widget de conveniencia que combina widgets comunes de pintura, posicionamiento y tamaño."},
+      {"nombre": "Row", "descripcion": "Muestra sus hijos en una matriz horizontal."},
+      {"nombre": "Column", "descripcion": "Muestra sus hijos en una matriz vertical."},
+      {"nombre": "Text", "descripcion": "Un widget de estilo de texto en ejecución."},
+      {"nombre": "Icon", "descripcion": "Un ícono de material design."},
+      {"nombre": "Image", "descripcion": "Un widget que muestra una imagen."},
+      {"nombre": "RaisedButton", "descripcion": "Un botón elevado de Material Design."},
+      {"nombre": "Scaffold", "descripcion": "Implementa la estructura de diseño visual básica de Material Design."},
+      {"nombre": "Appbar", "descripcion": "Una barra de aplicaciones de Material Design."},
+      {"nombre": "FlutterLogo", "descripcion": "El logotipo de Flutter, en forma de widget."},
+      {"nombre": "Placeholder", "descripcion": "Un widget que dibuja un cuadro que representa dónde se pintará generalmente otro widget."},
+      {"nombre": "BottomNavigationBar", "descripcion": "La barra de navegación inferior de Material Design."},
+      {"nombre": "TabBar", "descripcion": "Una barra de pestañas de Material Design."},
+      {"nombre": "Drawer", "descripcion": "Un panel de Material Design que se desliza horizontalmente desde el borde de un Scaffold para mostrar enlaces de navegación en una aplicación."},
+      {"nombre": "FloatingActionButton", "descripcion": "Un botón de acción flotante de Material Design."},
+      {"nombre": "Checkbox", "descripcion": "Una casilla de verificación de Material Design."},
+      {"nombre": "Radio", "descripcion": "Un botón de opción de Material Design."},
+      {"nombre": "Switch", "descripcion": "Un interruptor de Material Design."},
+      {"nombre": "Slider", "descripcion": "Un control deslizante de Material Design."},
+      {"nombre": "Date & Time Pickers", "descripcion": "Los selectores de fecha y hora de Material Design."}
+    ]
+  }
+  
